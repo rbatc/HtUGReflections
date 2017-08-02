@@ -6,3 +6,4 @@
 6. git clone    | Copy an existing repository from a url
 7. git branch   | No args: Show branches and current branch. One arg: Create new branch with given name
 8. git checkout | Checkout a commit, or a branch
+9. git log      | Show history of commits
