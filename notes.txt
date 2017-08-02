@@ -1,0 +1,8 @@
+1. git init     | Turns cd into repository
+2. git status   | Shows which files are added to staging area
+3. git add      | Adds files to staging area
+4. git commit   | 'Snapshot', move files from staging area to repository
+5. git diff     | No args: diff btw cd and staging area, --stage diff btw staging area and repository
+6. git clone    | Copy an existing repository from a url
+7. git branch   | No args: Show branches and current branch. One arg: Create new branch with given name
+8. git checkout | Checkout a commit, or a branch
