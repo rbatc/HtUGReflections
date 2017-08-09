@@ -10,3 +10,4 @@
 10. git checkout -b branchname | Create and checkout new branch in one command
 11. git push     | Push a local branch to a remote repository. Eg: git push origin master
 12. git remote   | Shows remote repositories. Or 'git remote add origin https://blahblah' to add remote
+13. git pull     | git pull origin master pulls from master branch of origin repository, to checked out branch
