@@ -8,3 +8,5 @@
  8. git checkout | Checkout a commit, or a branch
  9. git log      | Show history of commits
 10. git checkout -b branchname | Create and checkout new branch in one command
+11. git push     | Push a local branch to a remote repository. Eg: git push origin master
+12. git remote   | Shows remote repositories. Or 'git remote add origin https://blahblah' to add remote
